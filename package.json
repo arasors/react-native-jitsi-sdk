@@ -1,8 +1,8 @@
 {
-    "name": "@jitsi/react-native-sdk",
+    "name": "@arasors/jitsi-react-native-sdk",
     "version": "0.1.0",
     "description": "React Native SDK for Jitsi Meet.",
-    "main": "index.js",
+    "main": "index",
     "license": "Apache-2.0",
     "author": "",
     "homepage": "https://jitsi.org",
